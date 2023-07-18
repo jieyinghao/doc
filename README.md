@@ -1,2 +1,0 @@
-# doc
-about DNFm's 
